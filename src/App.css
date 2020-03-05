@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.inputbox {
+  width: 650px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+ .from_data {
+   width: 100px;
+ }
+ .row {
+   margin-left: 80px;
+ }
